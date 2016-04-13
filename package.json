@@ -1,6 +1,6 @@
 {
   "name": "pbkdf2-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "NodeJs implementation o PBKDF2 Hash to generate and check AspNet Identity password",
   "main": "./lib/pbkdf2.min.js",
   "scripts": {
