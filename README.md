@@ -1,4 +1,4 @@
-# PBKDF2Js
+# PBKDF2Js  [![npm version](https://badge.fury.io/js/pbkdf2-js.svg)](https://badge.fury.io/js/pbkdf2-js)
 This project is a lite implementation of PBKDF2 hash crypt algorithm.
 
 # Usage Cases
